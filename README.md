@@ -25,8 +25,8 @@ The project focuses on predicting real estate prices using three regression algo
 
 To run the code and visualize the results, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/real-estate-prediction.git`
-2. Navigate to the project folder: `cd real-estate-prediction`
+1. Clone the repository: `git clone https://github.com/Timmapuram-Karthik/Real-Estate-Price-ML.git`
+2. Navigate to the project folder: `cd Real-Estate-Price-ML.git`
 3. Install the required libraries: `pip install -r requirements.txt`
 4. Run the Jupyter Notebook: `jupyter notebook`
 
